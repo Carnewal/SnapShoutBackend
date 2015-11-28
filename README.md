@@ -1,6 +1,13 @@
 # SnapShoutBackend
 Node.js/Express backend for my iOS project app "SnapShout". 
 
+## Running
+To install : 
+`npm install`
+
+To run (nodemon is in www file): 
+`npm start`
+
 ## Used modules
 * Express
 * Nodemon
