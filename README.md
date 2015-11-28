@@ -1,8 +1,10 @@
 # SnapShoutBackend
-Node.js backend for my iOS project app "SnapShout". 
+Node.js/Express backend for my iOS project app "SnapShout". 
 
 ## Used modules
-
+* Express
+* Mongoose (database)
+* Multer (for file saving from POST data)
 
 
 ## Endpoints
